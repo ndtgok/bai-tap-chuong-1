@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ASUS\Desktop\project C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(288,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\ASUS\Desktop\project C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,13): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+  ConsoleApplication1.vcxproj -> C:\Users\ASUS\Desktop\project C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
